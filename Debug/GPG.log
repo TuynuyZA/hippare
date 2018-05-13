@@ -1,0 +1,20 @@
+﻿  DG2014_DGObject.cpp
+  Task_player.cpp
+d:\tuyd\勉強\ゲームプログラミング 3\ゲームプログラミング３制作\ひっぱり見本 hip\task_player.cpp(65): error C2065: 'pos': undeclared identifier
+d:\tuyd\勉強\ゲームプログラミング 3\ゲームプログラミング３制作\ひっぱり見本 hip\task_player.cpp(65): error C2228: left of '.x' must have class/struct/union
+  d:\tuyd\勉強\ゲームプログラミング 3\ゲームプログラミング３制作\ひっぱり見本 hip\task_player.cpp(65): note: type is 'unknown-type'
+d:\tuyd\勉強\ゲームプログラミング 3\ゲームプログラミング３制作\ひっぱり見本 hip\task_player.cpp(66): error C2065: 'pos': undeclared identifier
+d:\tuyd\勉強\ゲームプログラミング 3\ゲームプログラミング３制作\ひっぱり見本 hip\task_player.cpp(66): error C2228: left of '.x' must have class/struct/union
+  d:\tuyd\勉強\ゲームプログラミング 3\ゲームプログラミング３制作\ひっぱり見本 hip\task_player.cpp(66): note: type is 'unknown-type'
+d:\tuyd\勉強\ゲームプログラミング 3\ゲームプログラミング３制作\ひっぱり見本 hip\task_player.cpp(67): error C2065: 'pos': undeclared identifier
+d:\tuyd\勉強\ゲームプログラミング 3\ゲームプログラミング３制作\ひっぱり見本 hip\task_player.cpp(67): error C2228: left of '.y' must have class/struct/union
+  d:\tuyd\勉強\ゲームプログラミング 3\ゲームプログラミング３制作\ひっぱり見本 hip\task_player.cpp(67): note: type is 'unknown-type'
+d:\tuyd\勉強\ゲームプログラミング 3\ゲームプログラミング３制作\ひっぱり見本 hip\task_player.cpp(68): error C2065: 'pos': undeclared identifier
+d:\tuyd\勉強\ゲームプログラミング 3\ゲームプログラミング３制作\ひっぱり見本 hip\task_player.cpp(68): error C2228: left of '.y' must have class/struct/union
+  d:\tuyd\勉強\ゲームプログラミング 3\ゲームプログラミング３制作\ひっぱり見本 hip\task_player.cpp(68): note: type is 'unknown-type'
+d:\tuyd\勉強\ゲームプログラミング 3\ゲームプログラミング３制作\ひっぱり見本 hip\task_player.cpp(77): error C2039: 'pos': is not a member of 'Player::Object'
+  d:\tuyd\勉強\ゲームプログラミング 3\ゲームプログラミング３制作\ひっぱり見本 hip\task_player.h(29): note: see declaration of 'Player::Object'
+d:\tuyd\勉強\ゲームプログラミング 3\ゲームプログラミング３制作\ひっぱり見本 hip\task_player.cpp(77): error C2228: left of '.x' must have class/struct/union
+d:\tuyd\勉強\ゲームプログラミング 3\ゲームプログラミング３制作\ひっぱり見本 hip\task_player.cpp(77): error C2228: left of '.y' must have class/struct/union
+  Task_Ending.cpp
+  Generating Code...
